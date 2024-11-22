@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Moon Dance';
+    src: url('../font/MoonDance-Regular.eot');
+    src: url('../font/MoonDance-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/MoonDance-Regular.woff2') format('woff2'),
+        url('../font/MoonDance-Regular.woff') format('woff'),
+        url('../font/MoonDance-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url('../font/PermanentMarker-Regular.eot');
+    src: url('../font/PermanentMarker-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/PermanentMarker-Regular.woff2') format('woff2'),
+        url('../font/PermanentMarker-Regular.woff') format('woff'),
+        url('../font/PermanentMarker-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Poiret One';
+    src: url('../font/PoiretOne-Regular.eot');
+    src: url('../font/PoiretOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/PoiretOne-Regular.woff2') format('woff2'),
+        url('../font/PoiretOne-Regular.woff') format('woff'),
+        url('../font/PoiretOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
