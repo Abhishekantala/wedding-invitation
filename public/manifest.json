@@ -1,6 +1,6 @@
 {
   "short_name": "Abhi & Mansi",
-  "name": "Create React App Sample",
+  "name": "Batter Together – where love and laughter never end.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "wedding-couple.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "wedding-couple.png",
       "type": "image/png",
       "sizes": "512x512"
     }
